@@ -1,0 +1,18 @@
+﻿生成启动时间为 2016/7/30 星期六 20:24:19。
+     1>项目“C:\Users\Administrator\学习资料\C\小学期\group3\4.俄罗斯方块源代码\俄罗斯方块\俄罗斯方块.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt drawBrick.cpp
+         drawBrick.cpp
+     1>c:\users\administrator\学习资料\c\小学期\group3\4.俄罗斯方块源代码\俄罗斯方块\gamedata.h(38): warning C4091: “typedef ”: 没有声明变量时忽略“Brick”的左侧
+     1>c:\users\administrator\学习资料\c\小学期\group3\4.俄罗斯方块源代码\俄罗斯方块\gamedata.h(47): warning C4091: “typedef ”: 没有声明变量时忽略“Brick2”的左侧
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\学习资料\C\小学期\group3\4.俄罗斯方块源代码\Debug\俄罗斯方块.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\学习资料\C\小学期\group3\4.俄罗斯方块源代码\Debug\俄罗斯方块.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\学习资料\C\小学期\group3\4.俄罗斯方块源代码\Debug\俄罗斯方块.lib" /MACHINE:X86 Debug\drawBrick.obj
+         Debug\GameSystem.obj
+         Debug\GUI.obj
+         Debug\initial.obj
+         俄罗斯方块.vcxproj -> C:\Users\Administrator\学习资料\C\小学期\group3\4.俄罗斯方块源代码\Debug\俄罗斯方块.exe
+     1>已完成生成项目“C:\Users\Administrator\学习资料\C\小学期\group3\4.俄罗斯方块源代码\俄罗斯方块\俄罗斯方块.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.03
